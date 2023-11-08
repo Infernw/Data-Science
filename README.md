@@ -13,7 +13,7 @@ This project is an analysis of correlations in the movie industry. We explore re
 
 ## Data
 
-- Dataset: [Movie Data](data/movie_data.csv)
+- Dataset: [Movie Data](https://github.com/Infernw/Data-Science/blob/main/movies.csv)
 - Columns: name, rating, genre, year, released, score, votes, director, writer, star, country, budget, gross, company, runtime
 
 ## Analysis
