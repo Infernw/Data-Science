@@ -10,9 +10,6 @@ This project is an analysis of correlations in the movie industry. We explore re
 - [Analysis](#analysis)
 - [Findings](#findings)
 - [Dependencies](#dependencies)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Data
 
@@ -40,9 +37,3 @@ This project is an analysis of correlations in the movie industry. We explore re
 - Numpy
 - Matplotlib
 - Seaborn
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/movie-industry-correlation.git
-   cd movie-industry-correlation
